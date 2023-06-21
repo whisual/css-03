@@ -1,0 +1,34 @@
+.body{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 400px;
+    height: auto;
+    border: 3px solid black;
+    padding: 10px;
+}
+#nf{
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+#hr1{
+    border: 5px solid black;
+}
+#hr2{
+    border: 3px solid black;
+}
+#percent{
+    text-align: end;
+}
+.size{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ingredient{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0%;
+}
